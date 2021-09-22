@@ -1,15 +1,15 @@
 {
-  "ownerNumber": [ "6285219416361@s.whatsapp.net" ],
+  "ownerNumber": [ "6281555807465@s.whatsapp.net" ],
   "limitCount": 20,
   "gamewaktu": 60,
-  "botName": "ChikaBot",
+  "botName": "FiziBot",
   "pathImg": "./media/yo.jpg",
   "lolkey": "APIKEY",
   "zekskey": "chika-key",
   "tobzkey": "Tobzzz17",
   "aqulzkey": "APIKEY",
   "sesidInsta": "1548633294%3AqTFgHr7mE6tmU8%3A13",
-  "sessionName": "chika",
+  "sessionName": "session",
   "gcount": {
     "prem": 999999,
     "user": 25
